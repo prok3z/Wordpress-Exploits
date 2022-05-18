@@ -1,0 +1,104 @@
+{
+  "readme.html": {
+    "321aad4ba63043f888cb072cedf9ef78": "4.1",
+    "70cdb035f3dd51138d5997eaa4d93798": "4.0.1",
+    "f00855fca05f89294d0fcee6bebea64a": "4.0",
+    "62a78170a740a4460a8d25e00c1839f5": "3.9.3",
+    "dfb2d2be1648ee220bf9bd3c03694ed8": "3.9.2",
+    "cdbf9b18e3729b3553437fc4e9b6baad": "3.9.1",
+    "84b54c54aa48ae72e633685c17e67457": "3.9",
+    "4821f33f92f597623a524a34f3be4651": "3.8.5",
+    "fb73e4ab558adc3948adf2653e28d880": "3.8.4",
+    "c6de8fc70a18be7e5c36198cd0f99a64": "3.8.3",
+    "e01a2663475f6a7a8363a7c75a73fe23": "3.8.2",
+    "0d0eb101038124a108f608d419387b92": "3.8.1",
+    "38ee273095b8f25b9ffd5ce5018fc4f0": "3.8",
+    "61f1e5fbbd9ecb69c90cb96a19160ae5": "3.7.5",
+    "dc09e38cb48fbbec5b5f990513b491e4": "3.7.4",
+    "813e06052daa0692036e60d76d7141d3": "3.7.3",
+    "b3a05c7a344c2f53cb6b680fd65a91e8": "3.7.2",
+    "e82f4fe7d3c1166afb4c00856b875f16": "3.6.1",
+    "477f1e652f31dae76a38e3559c91deb9": "3.6",
+    "caf7946275c3e885419b1d36b22cb5f3": "3.5.2",
+    "05d50a04ef19bd4b0a280362469bf22f": "3.5.1",
+    "066cfc0f9b29ae6d491aa342ebfb1b71": "3.5",
+    "36b2b72a0f22138a921a38db890d18c1": "3.3.3",
+    "628419c327ca5ed8685ae3af6f753eb8": "3.3.2",
+    "c1ed266e26a829b772362d5135966bc3": "3.3.1",
+    "9ea06ab0184049bf4ea2410bf51ce402": "3.0"
+  },
+  "wp-includes/css/buttons-rtl.css": {
+    "71c13ab1693b45fb3d7712e540c4dfe0": "3.8"
+  },
+  "wp-includes/js/tinymce/wp-tinymce.js.gz": {
+    "66ff6b408c58c3207ff4b20e75ec5e68": "4.1",
+    "3966bc13b65d9487dc6772c615b05cd9": "4.0.1",
+    "21f15ceb6c245e6dc0edc510761049ba": "4.0",
+    "f094cea5fe2b1c870c662ff4794c589f": "3.9.3",
+    "1d52314b1767c557b7232ae192c80318": "3.9",
+    "44d281b0d84cc494e2b095a6d2202f4d": "3.7.1",
+    "b0bcf8091516db358ee9c833afd73175": "3.7",
+    "cf4bbd562430a9bcbe735062be851be1": "3.6.1",
+    "42ce18e88f1c21d4e991fcd431bcb606": "3.6",
+    "a58dd12608659503cf087e879e720354": "3.5.2",
+    "55c80a4794624ce9b94aa3631ad46c0b": "3.5.1",
+    "8e529a971610d7ebe7851339c5cb3d67": "3.5",
+    "ff19e44be975f89b647274d85b70f821": "3.4.2"
+  },
+  "wp-admin/js/customize-controls.js": {
+    "aa0d38bd6f590ad8c3126074145b1bf1": "3.4.1"
+  },
+  "wp-includes/js/customize-preview.js": {
+    "da36bc2dfcb13350c799b62de68dfa4b": "3.4"
+  },
+  "wp-includes/js/plupload/plupload.js": {
+    "85199c05db63fcb5880de4af8be7b571": "3.3.2"
+  },
+  "wp-admin/js/common.js": {
+    "4516252d47a73630280869994d510180": "3.3"
+  },
+  "wp-admin/js/wp-fullscreen.js": {
+    "5675f7793f171b6424bf72f9d7bf4d9a": "3.2.1",
+    "7b423e0b7c9221092737ad5271d09863": "3.2"
+  },
+  "wp-includes/css/admin-bar.css": {
+    "181250fab3a7e2549a7e7fa21c2e6079": "3.1"
+  },
+  "wp-content/themes/twentyten/style.css": {
+    "6211e2ac1463bf99e98f28ab63e47c54": "3.0"
+  },
+  "wp-plugins/akismet/readme.txt": {
+    "4d5e52da417aa0101054bd41e6243389": "2.8.6",
+    "58e086dea9d24ed074fe84ba87386c69": "2.8.5",
+    "48c52025b5f28731e9a0c864c189c2e7": "2.8.2"
+  },
+  "wp-includes/js/wp-ajax-response.js": {
+    "0289d1c13821599764774d55516ab81a": "2.7.1"
+  },
+  "wp-includes/js/thickbox/thickbox.css": {
+    "9c2bd2be0893adbe02a0f864526734c2": "2.7"
+  },
+  "wp-includes/js/tinymce/plugins/wpeditimage/editor_plugin.js": {
+    "5b140ddf0f08034402ae78b31d8a1a28": "2.6"
+  },
+  "wp-includes/js/tinymce/themes/advanced/js/image.js": {
+    "088245408531c58bb52cc092294cc384": "2.5.1"
+  },
+  "wp-includes/js/tinymce/themes/advanced/js/link.js": {
+    "19c6f3118728c38eb7779aab4847d2d9": "2.5"
+  },
+  "wp-includes/js/wp-ajax.js": {
+    "c5dbce0c3232c477033e0ce486c62755": "2.2"
+  },
+  "wp-content/themes/default/style.css": {
+    "e44545f529a54de88209ce588676231c": "2.0.1",
+    "f786f66d3a40846aa22dcdfeb44fa562": "2.0"
+  },
+  "wp-layout.css": {
+    "7140e06c00ed03d2bb3dad7672557510": "1.2.1",
+    "1bcc9253506c067eb130c9fc4f211a2f": "1.2-delta"
+  },
+  "layout2b.css": {
+    "baec6b6ccbf71d8dced9f1bf67c751e1": "0.71-gold"
+  }
+}
